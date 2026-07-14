@@ -10,22 +10,6 @@
 
 <br>
 
-## 🧠 What Drives Me
-
-```python
-class AzizKrifa:
-    def __init__(self):
-        self.role = "AI & Computer Vision Engineer"
-        self.focus = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.stack = ["Python", "Django", "OpenCV", "PyTorch/TensorFlow"]
-        self.mission = "Turning visual data into intelligent decisions"
-
-    def philosophy(self):
-        return "AI is not just the future — it's the tool to shape a better future."
-```
-
-<br>
-
 ## ⚙️ Core Focus
 
 <table>
