@@ -61,7 +61,7 @@ Deploying smart solutions with **Python**, **Flask**, and modern web technologie
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizkrifa&theme=radical&hide_border=true&background=0d1117" alt="Aziz Krifa streak" height="165"/>
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azizkrifa&theme=github_dark" width="90%"/>
 </div>
